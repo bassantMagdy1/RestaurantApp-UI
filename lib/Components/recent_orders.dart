@@ -37,7 +37,7 @@ class RecentOrders extends StatelessWidget {
                   child: Container(
                     margin: EdgeInsets.all(12),
                     child: Column(
-                      mainAxisAlignment: MainAxisAligngment.center,
+                      mainAxisAlignment: MainAxisAlignment.center,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(order.food.name,
